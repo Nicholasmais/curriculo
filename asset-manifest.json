@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guess_word/static/css/main.c8a9ff91.css",
+    "main.js": "/guess_word/static/js/main.2efa423f.js",
+    "index.html": "/guess_word/index.html",
+    "main.c8a9ff91.css.map": "/guess_word/static/css/main.c8a9ff91.css.map",
+    "main.2efa423f.js.map": "/guess_word/static/js/main.2efa423f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a9ff91.css",
+    "static/js/main.2efa423f.js"
+  ]
+}
